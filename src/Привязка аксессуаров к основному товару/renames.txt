@@ -1,0 +1,11 @@
+﻿04f30f2a-33ef-4022-8e45-8d1e2f12242d-->und\04f30f2a-33ef-4022-8e45-8d1e2f12242d
+04f30f2a-33ef-4022-8e45-8d1e2f12242d.0-->und\04f30f2a-33ef-4022-8e45-8d1e2f12242d.0
+787cec8e-8f22-47ad-8ff9-f9b3a7b0db95-->und\787cec8e-8f22-47ad-8ff9-f9b3a7b0db95
+787cec8e-8f22-47ad-8ff9-f9b3a7b0db95.0-->Form\Форма
+a00b41be-0f46-4e2a-8d52-3e31ac80e002-->und\a00b41be-0f46-4e2a-8d52-3e31ac80e002
+a00b41be-0f46-4e2a-8d52-3e31ac80e002.0-->Form\ФормаПрогресс
+c43812f1-830f-4618-9742-fb4a972be1c5-->und\c43812f1-830f-4618-9742-fb4a972be1c5
+copyinfo-->und\copyinfo
+root-->und\root
+version-->und\version
+versions-->und\versions
